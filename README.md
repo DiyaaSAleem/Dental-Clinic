@@ -1,6 +1,6 @@
 ## project name
 Dental Clinic
-## Descriptio
+## Description
 API for a dental clinic to assist the doctor in scheduling patient appointments.
 ## Install
 
